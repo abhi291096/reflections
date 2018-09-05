@@ -4,21 +4,31 @@ you get a message that you have initialized a repository. You have to do it to i
 for your project in your repository.
 
 How is the staging area different from the working directory and the repository?
+
 What value do you think it offers?
 
 Staging area lets you commit all the files together that you have changed. You can also 
 remove files from staging area using git reset
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+we can compare working directory and staging area using the git  diff command. We can also compare thr most recent commit by git diff --staged
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches help in exploring and adding changes that may not be needed, so we can switch back to the master branch whenever we want.
+
 How do the diagrams help you visualize the branch structure?
+
+Ans . - Diagrams explain us which commit can be reached from the current branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merge 2 updates that need to be combined in a application. So that user can get notified
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+we will not know when git will automatically merge.
