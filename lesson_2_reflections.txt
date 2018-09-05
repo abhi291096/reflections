@@ -2,8 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 you get a message that you have initialized a repository. You have to do it to implement version control
 for your project in your repository.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area lets you commit all the files together that you have changed. You can also 
+remove files from staging area using git reset
 
 How can you use the staging area to make sure you have one commit per logical
 change?
