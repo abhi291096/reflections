@@ -16,3 +16,7 @@ Ans- We fork a repository from someone else;s github remote repo/profile
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Ans - We can access the local copy of the required remote for fast-forward merge
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ans- It will be harder to collaborate as integrating changes will be difficult.
