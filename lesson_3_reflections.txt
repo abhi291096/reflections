@@ -20,3 +20,8 @@ Ans - We can access the local copy of the required remote for fast-forward merge
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Ans- It will be harder to collaborate as integrating changes will be difficult.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+We would want to make changes in a seperate branch when we are not sure of the changes. Once they get confirmed, we can merge our branches.
